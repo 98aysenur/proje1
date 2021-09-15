@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1571895018 source:c:\users\ayþenur akpýnar\desktop\kodkodkod\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+
+1571923649 source:c:\users\ayþenur akpýnar\desktop\kodkodkod3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+
+1571913450 source:e:\kodkodkod3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+
+1571994823 source:c:\users\ayþenur akpýnar\desktop\þuankikod\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+	<ctype.h>
+
+1572005248 source:c:\users\ayþenur akpýnar\desktop\þuankikod2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+	<ctype.h>
+
+1572104266 source:c:\users\ayþenur akpýnar\desktop\kaynakkod\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+	<ctype.h>
+
+1572163079 source:c:\users\ayþenur akpýnar\desktop\kaynakkodson\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+	<ctype.h>
+
+1572164850 source:c:\users\ayþenur akpýnar\desktop\kaynakkodsondosya\kaynakkod\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+	<ctype.h>
+
+1572164852 source:c:\users\ayþenur akpýnar\desktop\kaynakkod\kaynakkod\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<dirent.h>
+	<ctype.h>
+
